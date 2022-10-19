@@ -1,7 +1,7 @@
 <!-- About the project -->
 
 <div align="center" id="top"> 
-  <img src="img/exemple.png" alt="image description" />
+  <img src="img/example.png" alt="image description" />
 
   &#xa0;
 
